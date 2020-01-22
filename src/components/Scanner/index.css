@@ -1,0 +1,22 @@
+#canvasOutput
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.caption
+{
+    margin-bottom: 30px;
+}
+
+
+#imageSrc
+{
+    display: none;
+}
+
+.hidden
+{
+    display: none;
+}
